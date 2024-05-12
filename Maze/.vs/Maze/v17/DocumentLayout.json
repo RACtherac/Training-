@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oscar.hugosson\\Documents\\program\\Maze\\",
+  "WorkspaceRootPath": "C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82A97F92-B07B-499B-8308-AC5EE8A7B58B}|Maze.csproj|c:\\users\\oscar.hugosson\\documents\\program\\maze\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82A97F92-B07B-499B-8308-AC5EE8A7B58B}|Maze.csproj|solutionrelative:helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A97F92-B07B-499B-8308-AC5EE8A7B58B}|Maze.csproj|c:\\users\\oscar.hugosson\\documents\\program\\maze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82A97F92-B07B-499B-8308-AC5EE8A7B58B}|Maze.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\GameDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A97F92-B07B-499B-8308-AC5EE8A7B58B}|Maze.csproj|c:\\users\\oscar.hugosson\\documents\\program\\maze\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82A97F92-B07B-499B-8308-AC5EE8A7B58B}|Maze.csproj|solutionrelative:gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\Helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameDto.cs",
-              "DocumentMoniker": "C:\\Users\\oscar.hugosson\\Documents\\program\\Maze\\GameDto.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\GameDto.cs",
               "RelativeDocumentMoniker": "GameDto.cs",
-              "ToolTip": "C:\\Users\\oscar.hugosson\\Documents\\program\\Maze\\GameDto.cs",
+              "ToolTip": "C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\GameDto.cs",
               "RelativeToolTip": "GameDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T09:03:55.949Z"
+              "WhenOpened": "2024-05-01T09:03:55.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Helpers.cs",
-              "DocumentMoniker": "C:\\Users\\oscar.hugosson\\Documents\\program\\Maze\\Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\Helpers.cs",
               "RelativeDocumentMoniker": "Helpers.cs",
-              "ToolTip": "C:\\Users\\oscar.hugosson\\Documents\\program\\Maze\\Helpers.cs",
+              "ToolTip": "C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\Helpers.cs",
               "RelativeToolTip": "Helpers.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFcAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T08:56:30.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oscar.hugosson\\Documents\\program\\Maze\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\oscar.hugosson\\Documents\\program\\Maze\\Program.cs",
+              "ToolTip": "C:\\Users\\oscar.hugosson\\Documents\\GitHub\\Training-\\Maze\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:43:10.513Z"
+              "WhenOpened": "2024-04-30T16:43:10.513Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
+
+
+
+
         while (true)
         {
             Console.WriteLine("Välj en operation:");
@@ -104,6 +108,8 @@ class Program
         double fahrenheit = (celsius * 9 / 5) + 32;
         Console.WriteLine($"{celsius} grader Celsius är lika med {fahrenheit} grader Fahrenheit.");
     }
+
+    
 
     static void ConvertFahrenheitToCelsius(double fahrenheit)
     {
