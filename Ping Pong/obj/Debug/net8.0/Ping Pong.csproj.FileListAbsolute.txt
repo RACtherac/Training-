@@ -1,0 +1,14 @@
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\bin\Debug\net8.0\Ping Pong.exe
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\bin\Debug\net8.0\Ping Pong.deps.json
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\bin\Debug\net8.0\Ping Pong.runtimeconfig.json
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\bin\Debug\net8.0\Ping Pong.dll
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\bin\Debug\net8.0\Ping Pong.pdb
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\Ping Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\Ping Pong.AssemblyInfoInputs.cache
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\Ping Pong.AssemblyInfo.cs
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\Ping Pong.csproj.CoreCompileInputs.cache
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\Ping Pong.dll
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\refint\Ping Pong.dll
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\Ping Pong.pdb
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\Ping Pong.genruntimeconfig.cache
+C:\Users\oscar.hugosson\Documents\program\Ping Pong\obj\Debug\net8.0\ref\Ping Pong.dll
